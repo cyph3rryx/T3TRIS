@@ -12,8 +12,8 @@ This is a console-based implementation of the classic game Tetris using the curs
 
 ## Prerequisites
 
-- Python 3.x
-- curses library (usually included in Python standard library)
+    - Python 3.x
+    - curses library (usually included in Python standard library)
 
 ## How to Run
 
